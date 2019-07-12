@@ -10,6 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let randomValue = 5
+    let randomValue2 = 10
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
